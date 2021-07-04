@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-We are some students tryna being millionaires.
+We are students trying to do Computer Vision stuffs.
 
 Our proyects:
-  - Phone Melanoma Detector
   - Video Assistant Referee (VAR)
+<!-- 
+  - Phone Melanoma Detector 
+-->
 
 Founders:
-  - 1
-  - 2
-  - 3
-  - 4
+  - Asensio Martínez, Pablo
+  - González Fernández, Laura
+  - Zamora Batista, José Miguel
+  - Triguero Noriega, Antonio
+
+Special mention to Lomas García, Vanesa for the creation of name.
 
 <!--
 **Blind-Vision/Blind-Vision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
